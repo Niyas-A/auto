@@ -1,0 +1,7 @@
+/home/niyas/cfi/auto/build/CMakeFiles/clean_test_results.dir
+/home/niyas/cfi/auto/build/CMakeFiles/download_extra_data.dir
+/home/niyas/cfi/auto/build/CMakeFiles/doxygen.dir
+/home/niyas/cfi/auto/build/gtest/CMakeFiles/gtest.dir
+/home/niyas/cfi/auto/build/gtest/CMakeFiles/gtest_main.dir
+/home/niyas/cfi/auto/build/CMakeFiles/run_tests.dir
+/home/niyas/cfi/auto/build/CMakeFiles/tests.dir

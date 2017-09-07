@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/niyas/cfi/auto/devel -DCMAKE_INSTALL_PREFIX=/home/niyas/cfi/auto/install -G Unix Makefiles
